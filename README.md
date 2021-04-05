@@ -1,7 +1,7 @@
 # Calendar-Backend
 ### Project Setup
 ***
-* Ensure you have mongodb on-premis downloaded so the database can be created locally.
+* Ensure you have mongodb on-premise downloaded so the database can be created locally.
 * Clone this project 
 * Open MongoDB and click connect button
 * Once connected Create the database "bookingdb"
