@@ -10,7 +10,7 @@
 * Run the command "npm start"
 * Project should be running on localhost:4000
 ***
-###Project commands
+### Project commands
 ***
 * Run "npm start" to start the project
 * Run "npm stop" to stop the project
